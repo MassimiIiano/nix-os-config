@@ -13,7 +13,6 @@
     wireshark             # network analysis
     burpsuite             # web app pentesting
     ngrok                 # tunneling
-    ghidra                # reverse engineering
 
     # gaming
     protonup             
