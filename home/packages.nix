@@ -4,11 +4,6 @@
     # social
     discord               # chat client
     
-    # dev tools
-    gh                    # github cli
-    vscode                # code editor 
-    docker-compose        # docker
-
     # cybersicurity
     wireshark             # network analysis
     burpsuite             # web app pentesting
@@ -16,7 +11,6 @@
 
     # gaming
     protonup             
-    bastet                # tetris
     teams-for-linux       # microsoft teams
 
     # learning
