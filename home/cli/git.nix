@@ -1,5 +1,4 @@
 {pkgs, ...}: {
-  home.packages = with pkgs; [zsh-forgit gitflow];
   programs.git = {
     enable = true;
     userName = "MassimiIano";
@@ -39,7 +38,6 @@
       l = "log";
       r = "rebase";
       s = "status --short";
-      ss = "status";
       d = "diff";
       st = "status";
       br = "branch";

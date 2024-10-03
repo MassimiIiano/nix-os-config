@@ -1,15 +1,9 @@
 {pkgs, ...}: {
   nixpkgs.config.allowUnfree = false;
   home.packages = with pkgs; [
-    # essentials
-    firefox               # web browser
-    libreoffice-fresh     # libreoffice
-    gimp                  # image editor
-
     # social
     discord               # chat client
-    signal-desktop        # messaging
-
+    
     # dev tools
     gh                    # github cli
     vscode                # code editor 
